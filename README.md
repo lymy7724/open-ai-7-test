@@ -1,2 +1,2 @@
 # open-ai-7
-workshop html, css and GitHub, React, Node
+Practicing testing by creating tests for the open-ai project 
